@@ -1,2 +1,4 @@
 # family-share-blocker
-blocks family share accounts if original owner is banned.
+I DID NOT MAKE THIS, CREDIT GOES HERE:
+
+https://facepunch.com/showthread.php?t=1348101&p=43528174&viewfull=1#post43528174
