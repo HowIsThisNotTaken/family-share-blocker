@@ -12,8 +12,8 @@ local function HandleSharedPlayer(ply, lenderSteamID)
     if ULib.bans[lenderSteamID] then
         ply:Kick("The account that lent you Garry's Mod is banned on this server")
     end
-end
 --if you use another admin mod, change the code above--------------------------------
+end
 
 local function CheckFamilySharing(ply)
     http.Fetch(
